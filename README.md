@@ -34,8 +34,8 @@
 
 ### 📊 GitHub Stats
 
-![Idrus's GitHub stats](https://github-readme-stats.vercel.app/api?username=idrus99&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idrus99&layout=compact&theme=tokyonight)
+![Idrus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alishop99&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alishop99&layout=compact&theme=tokyonight)
 
 ---
 
