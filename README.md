@@ -1,11 +1,43 @@
-- 👋 Hi, I’m @Alishop99
-- 👀 I’m interested in programming challenges, adventure, .
-- 🌱 I’m currently learning advanced web development and project management.
-- 💞️ I’m looking to collaborate on innovative software projects and educational tools.
-- 📫 How to reach me: idrus99@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can spend hours coding as long as it’s something challenging and beneficial!
-<!---
-Alishop99/Alishop99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Idrus
+
+👨‍🏫 **Lecturer at STAI Nurul Iman Parung**  
+🧠 **Founder of Alishop Developer**  
+🚀 Passionate **Web & App Developer** | Curious about **Blockchain & NFT**
+
+---
+
+### 🌐 About Me
+- 🌍 Based in Indonesia
+- 💼 Currently working on:
+  - ERP & PPIC web systems
+  - Multi-institution attendance & GPS tracking
+  - Blockchain development for **GABU (Ghaca Bubu Coin)**
+  - NFT & Web3 integrations with real-world applications
+- 🧪 Exploring the world of Solana, smart contracts, and decentralized apps
+- 🛠️ Building both **web-based** and **Android APK** applications
+
+---
+
+### 🔗 My Projects & Platforms
+- 🌐 [Alishop Developer Website](https://alishop.my.id/)
+- 🌐 [Personal Blog & Info](https://www.alisaggaf.com/)
+- 💰 [GABU (Ghaca Bubu Coin)](https://x.com/mymedia4)
+
+---
+
+### 📱 Let's Connect
+- 🐦 Twitter: [@mymedia4](https://x.com/mymedia4)
+- 📸 Instagram: [@idrus99](https://www.instagram.com/idrus99/)
+- 💼 LinkedIn: [Idrus Haddar](https://www.linkedin.com/in/idrus-haddar-49a10496/)
+
+---
+
+### 📊 GitHub Stats
+
+![Idrus's GitHub stats](https://github-readme-stats.vercel.app/api?username=idrus99&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idrus99&layout=compact&theme=tokyonight)
+
+---
+
+> _"Coding is not just about syntax, it's about building impact."_  
+> — Idrus
