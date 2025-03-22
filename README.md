@@ -21,7 +21,7 @@
 ### 🔗 My Projects & Platforms
 - 🌐 [Alishop Developer Website](https://alishop.my.id/)
 - 🌐 [Personal Blog & Info](https://www.alisaggaf.com/)
-- 💰 [GABU (Ghaca Bubu Coin)](https://x.com/mymedia4)
+- 💰 [GABU (Ghaca Bubu Coin)](https://x.com/ghacabubucoin)
 
 ---
 
